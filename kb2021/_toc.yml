@@ -1,0 +1,45 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  # harmonisation_prog
+  - caption: Harmonisation Prog
+    chapters: 
+    - file: harmonisation_prog/1-intro
+    - file: harmonisation_prog/random_md
+  # harmonisation_bd
+  - caption: Harmonisation BD
+    chapters: 
+    - file: harmonisation_bd/random_md
+  # gpi
+  - caption: Gestion de projet
+    chapters:
+    - file: gpi/random_md
+  # devops
+  - caption: Devops
+    chapters:
+    - file: devops/random_md
+
+  # Usage of sections example :
+  # # Unit 3
+  # - caption: Document retrieval and information seeking
+  #   chapters:
+  #   - file: unit3/3-intro
+  #   - file: unit3/3-1-text-indexing
+  #     sections:
+  #     - file: unit3/3-1-1-definition-and-objectives
+  #     - file: unit3/3-1-2-indexing-metadata
+  #     - file: unit3/3-1-3-indexing-indexing-text-content
+  #   - file: unit3/3-2-text-search
+  #     sections:
+  #     - file: unit3/3-2-1-ranking-problem
+  #     - file: unit3/3-2-2-searching-with-solr
+  #     - file: unit3/3-2-3-result-representations
+  #   - file: unit3/3-3-advanced-search
+  #     sections:
+  #     - file: unit3/3-3-1-demonstration-of-blackboxes
+  #     - file: unit3/3-3-2-search-and-exploration
+  #     - file: unit3/3-3-3-critical-thinking
+
