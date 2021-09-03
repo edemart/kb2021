@@ -14,7 +14,7 @@ Liste des contributeurs étudiants (2021/2022) :
 - REYMOND Arsène
 - FABRE Aurélien
 - GONCALVES Denis
-- LOCHOM Nathan
+- LOCHON Nathan
 - LEMONNIER Baptiste
 - CHACON Esteban
 
