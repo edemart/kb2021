@@ -8,6 +8,7 @@ Liste des contributeurs étudiants (2021/2022) :
 
 - Demart Erwan - edemart
 - NOM2 Prénom2 - ID-Github2
+- rien
 
 Liste des contributeurs enseignants et intervenants professionnels (2021/2022) :
 
