@@ -1,6 +1,6 @@
 ![deploy workflow](https://github.com/LP-Dev-Cloud/kb2021/actions/workflows/deploy.yml/badge.svg)
 [![GitHub issues open](https://img.shields.io/github/issues/LP-Dev-Cloud/kb2021.svg)](https://github.com/LP-Dev-Cloud/kb2021/issues)
-![unmerged PRs](https://img.shields.io/github/issues-search/LP-Dev-Cloud/kb2021?label=unmerged%20PRs&query=is%3Apr%20is%3Aclosed%20is%3Aunmerged)
+![unmerged PRs](https://img.shields.io/github/issues-search/LP-Dev-Cloud/kb2021?label=unmerged%20PRs&query=is%3Apr%20state%3Aopen%20is%3Aunmerged)
 ![merged PRs](https://img.shields.io/github/issues-search/LP-Dev-Cloud/kb2021?label=merged%20PRs&query=is%3Apr+is%3Aclosed+is%3Amerged)
 
 
