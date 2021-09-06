@@ -8,6 +8,7 @@ parts:
   - caption: Harmonisation Prog
     chapters: 
     - file: harmonisation_prog/TP1
+    - file: harmonisation_prog/TP2
     - file: harmonisation_prog/random_md
   # harmonisation_bd
   - caption: Harmonisation BD
