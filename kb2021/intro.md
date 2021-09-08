@@ -6,13 +6,21 @@ En collaborant durant l'année et pour chacune des unités d'enseignement, les �
 
 Liste des contributeurs étudiants (2021/2022) : 
 
-- Demart Erwan - edemart
-- NOM2 Prénom2 - ID-Github2
+
+- [BELLEC Corentin](https://github.com/cbellec)
+- [BOURDIN Joris](https://github.com/Joris24)
+- [DEMART Erwan](https://github.com/edemart)
+- [PARIS Emilien](https://github.com/eparisLR)
+- [REYMOND Arsène](https://github.com/p0lycarpio)
+- [FABRE Aurélien](https://github.com/aurel1313)
+- [GONCALVES Denis](https://github.com/dgoncalv1)
+- [LOCHON Nathan](https://github.com/limentic)
+- [LEMONNIER Baptiste](https://github.com/BaptisteKSP)
+- [CHACON Esteban](https://github.com/EstebanChacon)
 
 Liste des contributeurs enseignants et intervenants professionnels (2021/2022) :
 
 - [SUIRE Cyrille](https://github.com/csuire01) - La Rochelle Université
-- NOM2 Prénom2 - ID-Github2 - affiliation
 
 ## Usage
 

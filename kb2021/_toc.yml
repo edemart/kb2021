@@ -7,26 +7,28 @@ parts:
   # harmonisation_prog
   - caption: Harmonisation Prog
     chapters: 
-    - file: harmonisation_prog/1-intro
-    - file: harmonisation_prog/random_md
-  # harmonisation_bd
-  - caption: Harmonisation BD
-    chapters: 
-    - file: harmonisation_bd/random_md
-  # gpi
-  - caption: Gestion de projet
-    chapters:
-    - file: gpi/random_md
-  # devops
-  - caption: Devops
-    chapters:
-    - file: devops/random_md
-  # ux
-  - caption: UX
-    chapters: 
-    - file: ux/random_md
+    - file: harmonisation_prog/intro_python
       sections:
-      - file: ux/dossiers/sujet1
-      - file: ux/dossiers/sujet2
-      - file: ux/dossiers/sujet3
-    - file: ux/random_md2
+      - file: harmonisation_prog/python/TP1
+      - file: harmonisation_prog/python/TP2
+  # harmonisation_bd
+  #- caption: Harmonisation BD
+  #  chapters: 
+  #  - file: harmonisation_bd/random_md
+  # gpi
+  #- caption: Gestion de projet
+  #  chapters:
+  #  - file: gpi/random_md
+  # devops
+  #- caption: Devops
+  #  chapters:
+  #  - file: devops/random_md
+  # ux
+  #- caption: UX
+  #  chapters: 
+  # - file: ux/random_md
+  #    sections:
+  #    - file: ux/dossiers/sujet1
+  #    - file: ux/dossiers/sujet2
+  #    - file: ux/dossiers/sujet3
+  #  - file: ux/random_md2
