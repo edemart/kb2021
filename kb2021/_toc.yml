@@ -24,11 +24,17 @@ parts:
   #  chapters:
   #  - file: devops/random_md
   # ux
-  #- caption: UX
-  #  chapters: 
-  # - file: ux/random_md
-  #    sections:
-  #    - file: ux/dossiers/sujet1
-  #    - file: ux/dossiers/sujet2
-  #    - file: ux/dossiers/sujet3
-  #  - file: ux/random_md2
+  - caption: UX
+    chapters: 
+    - file: ux/ux_toolbox
+      sections:
+      - file: ux/fiches/analyse
+        sections: 
+        - file: ux/fiches/analyse/sujet1
+      - file: ux/fiches/conception
+        sections: 
+        - file: ux/fiches/conception/sujet1
+      - file: ux/fiches/evaluation
+        sections: 
+        - file: ux/fiches/evaluation/sujet1
+    #- file: ux/random_md2
