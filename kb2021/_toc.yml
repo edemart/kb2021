@@ -33,7 +33,8 @@ parts:
         - file: ux/fiches/analyse/acheter_une_fonctionnalite
       - file: ux/fiches/conception
         sections: 
-        - file: ux/fiches/conception/sujet1
+        - file: ux/fiches/conception/prototype_interactif
+        - file: ux/fiches/conception/brainstorming
       - file: ux/fiches/evaluation
         sections: 
         - file: ux/fiches/evaluation/sujet1
