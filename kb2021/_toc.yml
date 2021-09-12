@@ -30,7 +30,7 @@ parts:
       sections:
       - file: ux/fiches/analyse
         sections: 
-        - file: ux/fiches/analyse/sujet1
+        - file: ux/fiches/analyse/acheter_une_fonctionnalite
       - file: ux/fiches/conception
         sections: 
         - file: ux/fiches/conception/sujet1

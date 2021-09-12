@@ -130,3 +130,9 @@ dmypy.json
 
 # Docs
 _build
+
+# MacOS files
+.DS_Store
+
+# Build scripts
+build.sh
