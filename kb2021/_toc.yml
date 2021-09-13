@@ -32,16 +32,19 @@ parts:
         sections: 
         - file: ux/fiches/analyse/acheter_une_fonctionnalite
         - file: ux/fiches/analyse/persona
+        - file: ux/fiches/analyse/undercover_agent
         
       - file: ux/fiches/conception
         sections: 
         - file: ux/fiches/conception/prototype_interactif
         - file: ux/fiches/conception/brainstorming
         - file: ux/fiches/conception/six-to-one
+        - file: ux/fiches/conception/crazy_eight
 
       - file: ux/fiches/evaluation
         sections: 
         - file: ux/fiches/evaluation/sujet1
+        - file: ux/fiches/evaluation/eye_tracking
 
       - file: ux/fiches/metiers
         sections:
