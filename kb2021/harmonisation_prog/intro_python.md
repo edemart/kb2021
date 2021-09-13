@@ -10,7 +10,7 @@ TPs constitués par chacun des étudiants de la promotion. Ils servent d'introdu
 
 ## Configuration de l'espace de travail
 
-> Vérifiez que votre système dispose bien de la dernière version de Python. Si ce n'est pas le cas, [téléchargez-le](https://www.python.org/downloads/). L'utilisation d'un système Linux est recommandé.
+> Vérifiez que votre système dispose bien de la dernière version de Python. Si ce n'est pas le cas, [téléchargez-le](https://www.python.org/downloads/). L'utilisation d'un système Linux est recommandée.
 
  ### Créer un environnement virtuel
 
