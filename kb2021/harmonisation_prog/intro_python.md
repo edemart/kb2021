@@ -16,7 +16,11 @@ TPs constitués par chacun des étudiants de la promotion. Ils servent d'introdu
 
 Dans le dossier du projet :
 ```bash
+# version de Python par défaut
 python3 -m venv venv
+# en précisant la version de Python
+virtualenv --python=/usr/bin/python3.8 venv 
+# activation du venv
 source venv/bin/activate
 ```
 ***NB:** Sur Windows, le dossier ``bin`` s'appelle ``Scripts``. Le script est ensuite éxecutable avec [PowerShell ou  cmd.exe](https://docs.python.org/fr/3/library/venv.html#creating-virtual-environments)*
