@@ -45,7 +45,7 @@ Vous pouvez par exemple prendre la devise, UX Coins, du site [UX-Republic](www.u
 
 *Voici un gif de cette devise:*
 
-![billets-ux-coins.png](billets-ux-republic.gif "Billets UX Coins")
+![billets-ux-coins.png](assets/acheter_une_fonctionnalite/billets_ux_republic.gif "Billets UX Coins")
 
 Pour déterminer le prix des cartes, dites-vous que le prix doit être proportionnel à la difficulté de réalisation de la fonctionnalité *(cela parait logique)*, mais que surtout chose importante le prix des cartes doivent être proportionnelles entre elles.
 
