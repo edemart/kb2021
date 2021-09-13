@@ -1,4 +1,4 @@
-# UX evangelist
+# UX Evangelist
 *Le métier UX designer*
 
 L'UX evangelist ou l'**User eXpérience designer** est un concepteur d'interfaces numériques dont la démarche est **centrée sur l'utilisateur**. Son poste correspond à une évolution de celui du UI ou web designer. Il est chargé, en tant que concepteur, de répondre aux attentes des internautes en termes de navigation sur les plateformes web et mobiles. C’est un architecte du numérique.

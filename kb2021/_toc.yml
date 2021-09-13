@@ -40,7 +40,7 @@ parts:
         - file: ux/fiches/conception/crash_test
         - file: ux/fiches/conception/crazy_eight
         - file: ux/fiches/conception/prototype_interactif
-        - file: ux/fiches/conception/six-to-one
+        - file: ux/fiches/conception/six_to_one
         - file: ux/fiches/conception/tri_de_cartes
       
       - file: ux/fiches/evaluation
@@ -50,6 +50,6 @@ parts:
       
       - file: ux/fiches/metiers
         sections:
-        - file: ux/fiches/metiers/ux-designer
+        - file: ux/fiches/metiers/ux_evangelist
         - file: ux/fiches/metiers/ux_researcher
     #- file: ux/random_md2

@@ -29,10 +29,10 @@ Cependant, cela reste à relativiser car même si le prototype peut être long �
 Un prototype intéractif doit être réalisé avec un logiciel spécialisé.
 
 Quelques exemples de logiciels :
-- Sketch *(macOS)*
-- Axure *(macOS, Windows)*
-- Adobe XD *(macOS, Windows)*
-- Figma *(Web, macOS, Windows, Linux)*
+- [Sketch](https://www.sketch.com/) *(macOS)*
+- [Axure](https://www.axure.com/) *(macOS, Windows)*
+- [Adobe XD](https://www.adobe.com/fr/products/xd.html) *(macOS, Windows)*
+- [Figma](https://www.figma.com/) *(Web, macOS, Windows, Linux)*
 
 Le prototype interactif est un outil indispensable de la conception UX et de l'UX Designer.
 
