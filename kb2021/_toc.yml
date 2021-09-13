@@ -31,11 +31,20 @@ parts:
       - file: ux/fiches/analyse
         sections: 
         - file: ux/fiches/analyse/acheter_une_fonctionnalite
+        - file: ux/fiches/analyse/persona
+        
       - file: ux/fiches/conception
         sections: 
         - file: ux/fiches/conception/prototype_interactif
         - file: ux/fiches/conception/brainstorming
+        - file: ux/fiches/conception/six-to-one
+
       - file: ux/fiches/evaluation
         sections: 
         - file: ux/fiches/evaluation/sujet1
+
+      - file: ux/fiches/metiers
+        sections:
+        - file: ux/fiches/metiers/ux-designer
+        - file: ux/fiches/metiers/ux_researcher
     #- file: ux/random_md2
