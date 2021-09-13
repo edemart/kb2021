@@ -15,7 +15,7 @@ Un brainstorming se passe en 4 étapes:
 - **Classement.**
 
 *schéma des 4 étapes*
-![brainstorming.jpg](brainstorming.jpg "brainstorming")
+![brainstorming.jpg](assets/brainstorming/brainstorming.jpg "brainstorming")
 
 ### I - Préparation
 
