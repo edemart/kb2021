@@ -32,19 +32,34 @@ parts:
         sections: 
         - file: ux/fiches/analyse/acheter_une_fonctionnalite
         - file: ux/fiches/analyse/persona
+<<<<<<< HEAD
+=======
+        - file: ux/fiches/analyse/undercover_agent
+>>>>>>> 13b6cb1846ae69c93433500ef6d9336f8d9e60b6
         
       - file: ux/fiches/conception
         sections: 
         - file: ux/fiches/conception/prototype_interactif
         - file: ux/fiches/conception/brainstorming
         - file: ux/fiches/conception/six-to-one
+<<<<<<< HEAD
+=======
+        - file: ux/fiches/conception/crazy_eight
+>>>>>>> 13b6cb1846ae69c93433500ef6d9336f8d9e60b6
 
       - file: ux/fiches/evaluation
         sections: 
         - file: ux/fiches/evaluation/sujet1
+<<<<<<< HEAD
+=======
+        - file: ux/fiches/evaluation/eye_tracking
+>>>>>>> 13b6cb1846ae69c93433500ef6d9336f8d9e60b6
 
       - file: ux/fiches/metiers
         sections:
         - file: ux/fiches/metiers/ux-designer
+<<<<<<< HEAD
         - file: ux/fiches/metiers/ux_researcher
+=======
+>>>>>>> 13b6cb1846ae69c93433500ef6d9336f8d9e60b6
     #- file: ux/random_md2
