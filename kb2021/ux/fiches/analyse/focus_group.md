@@ -26,7 +26,7 @@ Chaque thème fait l'objet d'une discussion de groupe ou d'une activité spécif
 
 ![group.png](assets/focus_group/group.png "Image Group")
 
-# Pourquoi ne pas utiliser:
+# Dans quelle condition il ne faut pas utiliser le Focus Group:
 -Pour prendre une décision finale
 -Pour répondre à la qquestion "combien"
 -Pour sauver du temps ou de l'argent par rapport à des méthodes quantitatives.
@@ -36,6 +36,7 @@ Chaque thème fait l'objet d'une discussion de groupe ou d'une activité spécif
 # Les différents procédés du Focus Group:
 
 -Par questionnement : pour identifier les motivation des utilisateurs ou les faire réagir sur un nouveau design, par exemple.
+
 -Par activité de groupe: participation des utilisateurs afin de réaliser en petits groupes une maquette de l'interface "idéale", chaque groupe va présenter celle ci
 aux autres présidents.
 
