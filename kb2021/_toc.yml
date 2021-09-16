@@ -11,6 +11,10 @@ parts:
       sections:
       - file: harmonisation_prog/python/TP1
       - file: harmonisation_prog/python/TP2
+    - file: harmonisation_prog/intro_js
+      sections:
+      - file: harmonisation_prog/js/TP1
+      - file: harmonisation_prog/js/TP2
   # harmonisation_bd
   #- caption: Harmonisation BD
   #  chapters: 
