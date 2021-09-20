@@ -19,7 +19,7 @@ Liste des contributeurs étudiants (2021/2022) :
 - [CHACON Esteban](https://github.com/EstebanChacon)
 - [TRIOU THéo](https://github.com/TheoTriou)
 - [FARIK Medi](https://github.com/farikmehdi)
-- [RENAUT César](https://github.com/cerenault)
+- [RENAULT César](https://github.com/cerenault)
 
 
 Liste des contributeurs enseignants et intervenants professionnels (2021/2022) :
