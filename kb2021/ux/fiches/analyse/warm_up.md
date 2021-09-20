@@ -25,7 +25,7 @@ le but du jeu est d'harmoniser la vision projet :
 - Quels sont les bénéfices de notre produit / service ?
 - Qui sont les concurrents et comment nous allons nous différencier ?
 
-Pour nous aidé dans cette demarche il existe des templetes et le but sera de le remplir. ![template](/assets/Warm_up/Warmup-UX-Republic.pdf)
+Pour nous aidé dans cette demarche il existe des templetes et le but sera de le remplir. ![template](assets/Warm_up/Warmup-UX-Republic.pdf)
 
 le deroulement est simple il faut fournir de post-it et des feutres et chaqu'un va remplir le templetes avec une idée par post-it.
 
