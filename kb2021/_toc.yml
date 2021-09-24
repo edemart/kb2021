@@ -15,12 +15,16 @@ parts:
       sections:
       - file: harmonisation_prog/js/TP1
       - file: harmonisation_prog/js/TP2
+  # gpi
+  - caption: Gestion de projet
+    chapters:
+    - file: gpi/gpi_toolbox
+      sections:
+      - file: gpi/fiches/sujet1
   # harmonisation_bd
   #- caption: Harmonisation BD
   #  chapters: 
   #  - file: harmonisation_bd/random_md
-  # gpi
-  #- caption: Gestion de projet
   #  chapters:
   #  - file: gpi/random_md
   # devops
