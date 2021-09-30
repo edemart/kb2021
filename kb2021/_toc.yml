@@ -15,6 +15,10 @@ parts:
       sections:
       - file: harmonisation_prog/js/TP1
       - file: harmonisation_prog/js/TP2
+  # harmonisation_prog
+  - caption: Veille
+    chapters: 
+    - file: veille/intro_cfp
   # harmonisation_bd
   #- caption: Harmonisation BD
   #  chapters: 
