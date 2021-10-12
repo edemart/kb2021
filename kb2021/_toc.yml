@@ -6,24 +6,25 @@ root: intro
 parts:
   # harmonisation_prog
   - caption: Harmonisation Prog
-    chapters: 
-    - file: harmonisation_prog/intro_python
-      sections:
-      - file: harmonisation_prog/python/TP1
-      - file: harmonisation_prog/python/TP2
-    - file: harmonisation_prog/intro_js
-      sections:
-      - file: harmonisation_prog/js/TP1
-      - file: harmonisation_prog/js/TP2
+    chapters:
+      - file: harmonisation_prog/intro_python
+        sections:
+          - file: harmonisation_prog/python/TP1
+          - file: harmonisation_prog/python/TP2
+      - file: harmonisation_prog/intro_js
+        sections:
+          - file: harmonisation_prog/js/TP1
+          - file: harmonisation_prog/js/TP2
   # gpi
   - caption: Gestion de projet
     chapters:
-    - file: gpi/gpi_toolbox
-      sections:
-      - file: gpi/fiches/sujet1
+      - file: gpi/gpi_toolbox
+        sections:
+          - file: gpi/fiches/sujet1
+          - file: gpi/fiches/product-owner
   # harmonisation_bd
   #- caption: Harmonisation BD
-  #  chapters: 
+  #  chapters:
   #  - file: harmonisation_bd/random_md
   #  chapters:
   #  - file: gpi/random_md
@@ -33,7 +34,7 @@ parts:
   #  - file: devops/random_md
   # ux
   #- caption: UX
-  #  chapters: 
+  #  chapters:
   # - file: ux/random_md
   #    sections:
   #    - file: ux/dossiers/sujet1
