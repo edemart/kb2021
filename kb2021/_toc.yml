@@ -4,6 +4,15 @@
 format: jb-book
 root: intro
 parts:
+  # harmonisation_bd
+  #- caption: Harmonisation BD
+  #  chapters: 
+  #  - file: harmonisation_bd/random_md
+  # devops
+  #- caption: Devops
+  #  chapters:
+  #  - file: devops/random_md
+  # ux
   # harmonisation_prog
   - caption: Harmonisation Prog
     chapters: 
@@ -15,23 +24,17 @@ parts:
       sections:
       - file: harmonisation_prog/js/TP1
       - file: harmonisation_prog/js/TP2
+  # gpi
+  - caption: Gestion de projet
+    chapters:
+      - file: gpi/gpi_toolbox
+        sections:
+          - file: gpi/fiches/sujet1
+          - file: gpi/fiches/product-owner
   # harmonisation_prog
   - caption: Veille
     chapters: 
     - file: veille/intro_cfp
-  # harmonisation_bd
-  #- caption: Harmonisation BD
-  #  chapters: 
-  #  - file: harmonisation_bd/random_md
-  # gpi
-  #- caption: Gestion de projet
-  #  chapters:
-  #  - file: gpi/random_md
-  # devops
-  #- caption: Devops
-  #  chapters:
-  #  - file: devops/random_md
-  # ux
   - caption: UX
     chapters: 
     - file: ux/ux_toolbox
@@ -63,4 +66,3 @@ parts:
         sections:
         - file: ux/fiches/metiers/ux_evangelist
         - file: ux/fiches/metiers/ux_researcher
-    #- file: ux/random_md2
