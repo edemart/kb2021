@@ -9,10 +9,12 @@ parts:
   #  chapters: 
   #  - file: harmonisation_bd/random_md
   # devops
-  #- caption: Devops
-  #  chapters:
-  #  - file: devops/random_md
-  # ux
+  - caption: devops
+    chapters:
+    - file: devops/intro
+      sections:
+      - file: devops/docker/docker-edemart
+      - file: devops/docker/docker-areymond
   # harmonisation_prog
   - caption: Harmonisation Prog
     chapters: 
@@ -36,6 +38,7 @@ parts:
   - caption: Veille
     chapters: 
     - file: veille/intro_cfp
+  # UX
   - caption: UX
     chapters: 
     - file: ux/ux_toolbox
@@ -75,5 +78,3 @@ parts:
         sections:
         - file: ux/fiches/metiers/ux_evangelist
         - file: ux/fiches/metiers/ux_researcher
-- caption: devops
-  - file : devops/docker-edemart.md
