@@ -75,3 +75,5 @@ parts:
         sections:
         - file: ux/fiches/metiers/ux_evangelist
         - file: ux/fiches/metiers/ux_researcher
+- caption: devops
+  - file : devops/docker-edemart.md
