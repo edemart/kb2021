@@ -11,10 +11,7 @@ parts:
   # devops
   - caption: devops
     chapters:
-    - file: devops/intro
-      sections:
-      - file: devops/docker/docker-edemart
-      - file: devops/docker/docker-areymond
+    - file: devops/docker
   # harmonisation_prog
   - caption: Harmonisation Prog
     chapters: 

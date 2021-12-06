@@ -1,4 +1,4 @@
-# La conteneurisation avec Docker
+# Docker
 
 Docker est un système de conteneurisation permettant de faire tourner des applications et services assez et rapidement. À travers des fichiers de configuration, il est possible de déployer facilement des *containers* qui peuvent tourner ensuite dans des environnements de production. Docker permet aussi aux développeurs de travailler sur un même environnement de développement, avec les mêmes dépendances et versions de frameworks.
 
