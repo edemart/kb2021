@@ -35,6 +35,7 @@ parts:
   - caption: Veille
     chapters: 
     - file: veille/intro_cfp
+    - file: veille/angular-presentation
   # UX
   - caption: UX
     chapters: 
