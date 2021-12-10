@@ -9,10 +9,9 @@ parts:
   #  chapters: 
   #  - file: harmonisation_bd/random_md
   # devops
-  #- caption: Devops
-  #  chapters:
-  #  - file: devops/random_md
-  # ux
+  - caption: devops
+    chapters:
+    - file: devops/docker
   # harmonisation_prog
   - caption: Harmonisation Prog
     chapters: 
@@ -37,6 +36,7 @@ parts:
     chapters: 
     - file: veille/intro_cfp
     - file: veille/limentic_vuejs
+  # UX
   - caption: UX
     chapters: 
     - file: ux/ux_toolbox
