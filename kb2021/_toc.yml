@@ -35,6 +35,7 @@ parts:
   - caption: Veille
     chapters: 
     - file: veille/intro_cfp
+    - file: veille/limentic_vuejs
   # UX
   - caption: UX
     chapters: 
