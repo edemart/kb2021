@@ -34,8 +34,16 @@ parts:
   # harmonisation_prog
   - caption: Veille
     chapters: 
-    - file: veille/intro_cfp
-    - file: veille/angular-presentation
+      - file: veille/intro_cfp
+        sections:
+          - file: veille/angular-presentation
+          - file: veille/Macroquad
+      #    - file: veille/Nifi
+          - file: veille/Sass
+          - file: veille/Svelte
+      #    - file: veille/tensorflow
+      #    - file: veille/Unity
+
   # UX
   - caption: UX
     chapters: 
