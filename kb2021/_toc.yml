@@ -43,7 +43,7 @@ parts:
           - file: veille/Svelte
       #    - file: veille/tensorflow
       #    - file: veille/Unity
-
+          - file: veille/limentic_vuejs
   # UX
   - caption: UX
     chapters: 
