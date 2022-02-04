@@ -38,11 +38,11 @@ parts:
         sections:
           - file: veille/angular-presentation
           - file: veille/Macroquad
-      #    - file: veille/Nifi
+          - file: veille/Nifi
           - file: veille/Sass
           - file: veille/Svelte
-      #    - file: veille/tensorflow
-      #    - file: veille/Unity
+          - file: veille/tensorflow
+          - file: veille/Unity
           - file: veille/limentic_vuejs
   # UX
   - caption: UX
