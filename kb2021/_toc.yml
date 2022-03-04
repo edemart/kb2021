@@ -44,6 +44,8 @@ parts:
           - file: veille/tensorflow
           - file: veille/Unity
           - file: veille/limentic_vuejs
+          - file: veille/GameMakerStudio2
+
   # UX
   - caption: UX
     chapters: 
