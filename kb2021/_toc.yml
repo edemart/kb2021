@@ -38,7 +38,7 @@ parts:
         sections:
           - file: veille/angular-presentation
           - file: veille/Macroquad
-          - file: veille/Nifi
+          - file: veille/terraform
           - file: veille/Sass
           - file: veille/Svelte
           - file: veille/tensorflow
