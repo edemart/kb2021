@@ -46,6 +46,7 @@ parts:
           - file: veille/limentic_vuejs
           - file: veille/GameMakerStudio2
           - file: veille/BeautifulSoup
+          - file: veille/BevyAndECS
   # UX
   - caption: UX
     chapters: 
